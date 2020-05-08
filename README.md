@@ -1,2 +1,2 @@
-# MNST_Clasification
+# MNST_Classification
 MNST plot learning curve
